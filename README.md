@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Denys Bulakh - Trainee Full-Stack Developer
 
-Learning advaced **JavaScript** and **HTML/CSS**. I focus on clean UI, accessibilyty, and performance.
+Learning advaced **JavaScript** and **HTML/CSS**. I focus on clean UI, accessibility, and performance.
 
 **Featured**
 - Calculator - [Live](https://deny-hl.github.io/calculator/) - [Code](https://github.com/deny-hl/calculator)
