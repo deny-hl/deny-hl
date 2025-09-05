@@ -13,8 +13,8 @@ Learning advaced **JavaScript** and **HTML/CSS**. I focus on clean UI, accessibi
 ---
 
 ### 🛠️ Tech Stack
-- **Lamguages**: JS/TS (learning), HTML5, CSS3
-- **Tools**: Git & GiyHub, VS Code
+- **Languages**: JS/TS (learning), HTML5, CSS3
+- **Tools**: Git & GitHub, VS Code
 - **Practices**: Semantic HTML, responsive design, accessibility patterns, testing
 
 ---
