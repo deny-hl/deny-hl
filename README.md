@@ -21,3 +21,8 @@ Learning advaced **JavaScript** and **HTML/CSS**. I focus on clean UI, accessibi
 
 ### 🎯 Current Goal
 Strengthen accessibility practices, improve testing, and build small **progressive web apps (PWAs)**.
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deny-hl&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=deny-hl&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deny-hl&layout=compact)
