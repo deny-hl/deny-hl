@@ -22,7 +22,6 @@ Focusing on clean UI, accessibility, and performance
 ## 📈 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deny-hl&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=deny-hl&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deny-hl&layout=compact)
 
 ---
