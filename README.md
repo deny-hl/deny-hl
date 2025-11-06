@@ -8,8 +8,6 @@ Focusing on clean UI, accessibility, and performance
 
 ## 🚀 Featured Projects
 
-- **Portfolio** _(in progress)_  
-  [Live](https://deny-hl.github.io/portfolio/) | [Code](https://github.com/deny-hl/portfolio)
 - **BOSE Landing Page**  
   [Live](https://deny-hl.github.io/bose_landing/) | [Code](https://github.com/deny-hl/bose_landing?tab=readme-ov-file)
 - **Calculator**  
