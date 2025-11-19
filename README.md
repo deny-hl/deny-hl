@@ -7,7 +7,8 @@ Focusing on clean UI, accessibility, and performance
 ---
 
 ##  Featured Projects
-
+- **MYBIKE Landing Page**  
+  [Live](https://deny-hl.github.io/layout_landing-page/) | [Code](https://github.com/deny-hl/layout_landing-page/tree/develop?tab=readme-ov-file) | [Design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=TnRoAFO1anDesFf5-0)
 - **BOSE Landing Page**  
   [Live](https://deny-hl.github.io/bose_landing/) | [Code](https://github.com/deny-hl/bose_landing?tab=readme-ov-file)
 - **Calculator**  
